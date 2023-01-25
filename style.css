@@ -1,0 +1,39 @@
+.h1{
+    color:crimson;  
+}
+ .h2{
+    color:crimson;
+    font-style: italic;
+ }
+ .para3{
+    text-decoration: line-through ;  
+    font-weight: bold;
+ }
+ .para4{
+    background-color: yellow;
+    font-weight: bold;
+ }
+ .para5{
+    text-decoration: underline;
+    font-style: italic;
+ }
+ .list{
+    color: brown;
+ }
+ .list1{
+  letter-spacing: 5px;
+  color: brown;
+ }
+ .button{
+   color:rgb(199, 21, 56);
+   background-color: yellow;
+   text-decoration: none;
+ }
+ .para6{
+   color: brown;
+ }
+
+text-decoration: underline;
+text-decoration: line-through;
+text-decoration: overline;
+background-color: blue;
